@@ -51,16 +51,3 @@ public class Main {
     }
 
 }
-
-
-
-
-
-
-
-
-
-   // public static void meth1(int arg1){
-       // System.out.println(""+(25/arg1));
-
-
